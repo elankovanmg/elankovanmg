@@ -1,3 +1,4 @@
 ## MS Thesis
 
-This repo is thesis doc project;
+This repo is my thesis doc project;
+This file will be updated soon;
